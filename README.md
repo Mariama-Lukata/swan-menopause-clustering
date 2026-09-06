@@ -107,7 +107,6 @@ swan-menopause-clustering/
 
 ## Author
 
-**Mariama** — Software Engineer · Independent Researcher · Founder, Sistas in Dev Collective
-Preparing for PhD in Biomedical Informatics · Atlanta, GA
+**Mariama** — Cloud DevOps Engineer · Independent Researcher · Atlanta, GA
 
 *Part of a two-project portfolio on ML pattern recognition across the female hormonal lifespan. See also: [Female Hormonal Health ML Pipeline](https://github.com/Mariama-Lukata/PM-Neurobiological-Sensitivity-Research-Cloud-Infrastructure)*
